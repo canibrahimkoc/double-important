@@ -8,7 +8,4 @@
 			}
         });
         var hardImport = " !important;"  
-
 	});
-
-    
